@@ -1,0 +1,8 @@
+/*Answer the following questions in at least 2 paragraphs, in your own words, based on what you have learned in this module.
+
+How does the internet work? What happens when you click on a link?
+*/
+
+There is a lot that goes on with how the web works. There are networks, hostnames, IP addresses, URL's, browsers and servers, and so on. The web is an interconnected system of public webpages that are available and built on top of the internet (which is a worldwide network of networks that is the backbone of the web and helps computers all over to connect to each other.) Networks are a way to connect and communicate with one or more computer. Servers are ways computers are connected to the web using responses and requests. One way of looking at the internet and web is looking at it like a road is the internet and the vehicles and transportation are the web.
+
+Here are the steps in how a web page loads into a browser. The link is clicked which is the initial request, the request reaches the app server, the app code finishes execution, browser receives HTML and begins processing, the HTML processing finishes, and finally the page is rendered in the browser! All of this can take milliseconds. 
