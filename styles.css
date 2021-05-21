@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+
+/* Buttons Sections (make buttons larger and yellow*/
+.button {
+	width: 12em;
+	height: 4em;
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
+	border-radius: 20%;
+}
